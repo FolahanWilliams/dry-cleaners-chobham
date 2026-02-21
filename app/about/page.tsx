@@ -36,7 +36,7 @@ export default function About() {
           <div className="grid md:grid-cols-2 gap-12 items-center mb-20">
             <div className="relative h-96 md:h-[500px] rounded-lg overflow-hidden scroll-fade-in">
               <Image
-                src="https://images.unsplash.com/photo-1567401893414-76b7b1e5a7a5?w=800&q=80"
+                src="https://source.unsplash.com/800x600/?clothing,garment,professional"
                 alt="Professional dry cleaning care"
                 fill
                 className="object-cover"

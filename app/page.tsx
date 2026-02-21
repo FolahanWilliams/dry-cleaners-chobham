@@ -33,7 +33,7 @@ export default function Home() {
 
       <section className="relative h-screen flex items-center justify-center overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1489274495757-95c7c837b101?w=1920&q=80"
+          src="https://source.unsplash.com/1920x1080/?dry-cleaning,clothes,professional"
           alt="Professional dry cleaning services"
           fill
           className="object-cover brightness-50"
@@ -212,7 +212,7 @@ export default function Home() {
             </div>
             <div className="relative h-96 rounded-lg overflow-hidden">
               <Image
-                src="https://images.unsplash.com/photo-1558769132-cb1aea3c9a10?w=800&q=80"
+                src="https://source.unsplash.com/800x600/?laundry,shop,store"
                 alt="Dry cleaning shop interior"
                 fill
                 className="object-cover"
